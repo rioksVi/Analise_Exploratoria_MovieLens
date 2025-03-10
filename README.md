@@ -7,13 +7,16 @@ Questão 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Descrição da base de dados.
 
 (a) (20 pontos) Descrição geral do dataset.
+
 (b) (10 pontos) O que significa cada linha de cada arquivo?
+
 (c) (10 pontos) Quais são os atributos (colunas) e seus tipos?
 
 Questão 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [50 pontos]
 Preparação da base de dados.
 
 (a) (25 pontos) Identificou algum problema no dataset (por exemplo: nomes ruins para as colunas, falta de organização, outliers, dados faltantes, conversão de tipos de dados, etc)?
+
 (b) (25 pontos) Aplicou alguma correção para o(s) problema(s) identificado(s) no item anterior?
 
 Questão 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [10 pontos]
